@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="AuraFlow Phoenix">
+  <defs>
+    <linearGradient id="phx" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD24D"/>
+      <stop offset="0.45" stop-color="#FFA51F"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="phxLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFF1C2"/>
+      <stop offset="1" stop-color="#FFC247"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#phx)">
+    <!-- Right wing feathers -->
+    <path d="M104 92 C128 78 150 60 178 40 C160 70 150 86 130 100 C150 96 166 86 186 74 C168 100 150 112 126 118 C108 122 102 110 104 92 Z"/>
+    <path d="M104 104 C124 100 146 96 172 92 C152 112 132 122 112 124 C104 124 100 114 104 104 Z"/>
+    <!-- Left wing feathers (mirror) -->
+    <path d="M96 92 C72 78 50 60 22 40 C40 70 50 86 70 100 C50 96 34 86 14 74 C32 100 50 112 74 118 C92 122 98 110 96 92 Z"/>
+    <path d="M96 104 C76 100 54 96 28 92 C48 112 68 122 88 124 C96 124 100 114 96 104 Z"/>
+  </g>
+  <!-- Body + head + neck -->
+  <path fill="url(#phxLight)" d="M100 36 C92 40 88 48 92 56 C84 52 78 54 76 60 C82 60 86 64 88 70 C84 84 88 100 100 108 C112 100 116 84 112 70 C114 64 118 60 124 60 C122 54 116 52 108 56 C112 48 108 40 100 36 Z"/>
+  <!-- Beak -->
+  <path fill="#F97316" d="M108 44 C116 42 122 44 126 48 C120 50 114 50 110 50 Z"/>
+  <!-- Flame tail -->
+  <path fill="url(#phx)" d="M100 108 C94 124 96 140 88 156 C84 168 90 178 100 184 C110 178 116 168 112 156 C104 140 106 124 100 108 Z"/>
+  <path fill="url(#phxLight)" d="M100 120 C97 134 98 150 92 162 C90 170 94 176 100 180 C106 176 110 170 108 162 C102 150 103 134 100 120 Z"/>
+</svg>

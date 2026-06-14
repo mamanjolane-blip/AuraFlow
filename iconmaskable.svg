@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="AuraFlow">
+  <rect width="200" height="200" rx="0" fill="#ffffff"/>
+  <g transform="translate(20 20) scale(0.8)">
+    <defs>
+      <linearGradient id="m" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#FFD24D"/>
+        <stop offset="1" stop-color="#F97316"/>
+      </linearGradient>
+    </defs>
+    <path fill="url(#m)" d="M100 36 C92 40 88 48 92 56 C84 52 78 54 76 60 C82 60 86 64 88 70 C84 84 88 100 100 108 C112 100 116 84 112 70 C114 64 118 60 124 60 C122 54 116 52 108 56 C112 48 108 40 100 36 Z"/>
+    <path fill="url(#m)" d="M104 96 C130 82 152 60 182 40 C160 76 150 96 120 116 C108 122 100 112 104 96 Z"/>
+    <path fill="url(#m)" d="M96 96 C70 82 48 60 18 40 C40 76 50 96 80 116 C92 122 100 112 96 96 Z"/>
+    <path fill="url(#m)" d="M100 108 C94 124 96 140 88 156 C84 168 90 178 100 184 C110 178 116 168 112 156 C104 140 106 124 100 108 Z"/>
+  </g>
+</svg>
