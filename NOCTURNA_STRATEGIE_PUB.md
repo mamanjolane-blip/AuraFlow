@@ -125,9 +125,9 @@ Higgsfield est notre outil unique de production (connexion via leur serveur MCP 
 
 ---
 
-## 6. Les pubs : 7 scripts prêts à produire dans Higgsfield
+## 6. Les 10 concepts de pub (à poster en organique sur TikTok)
 
-Chaque script = 1 créa complète. Les prompts sont écrits pour être copiés tels quels dans Higgsfield (Marketing Studio + génération vidéo). Rappel : plans produit = image-to-video sur les **photos réelles** uniquement.
+Voici les 10 vidéos à produire et poster **gratuitement** sur TikTok. Chaque concept décrit ce qui se passe dans la pub : le hook, le déroulé, la chute. On les poste toutes, on regarde laquelle décolle en vues organiques, et **on booste seulement la gagnante sur Meta** (voir §7). Rappel : plans produit = animation des **photos réelles** uniquement, jamais généré par IA.
 
 ### PUB 1 — « 3h du matin » (Angle 1 · avatar Léa · 25 s) — *priorité n°1*
 
@@ -156,37 +156,53 @@ Version miroir masculine : « Elle dort. Moi je finis mon match à côté. Perso
 ### PUB 6 — « Bagage cabine » (Angle 3 · avatar Léa · 20 s, à activer juillet-août)
 Hook : « Le seul truc que je mets dans mon bagage cabine avant mon passeport. » B-roll Veo : cabine d'avion de nuit, lumières éteintes, voisin avec écran allumé → elle : masque + podcast → arrivée fraîche. Tagline : « La classe affaires, version 39 €. »
 
-### PUB 7 — « Doomscrolling » (Angle 4 · sans avatar · 15 s, retargeting)
-Écran de téléphone qui scrolle à 23h47 dans le noir (b-roll) → main qui pose le téléphone, enfile le masque → noir total → texte : « Remplace ton doomscrolling de 23h par ça. » + rappel garantie 30 nuits. Diffusion uniquement en retargeting.
+### PUB 7 — « Doomscrolling » (Angle 4 · sans avatar · 15 s)
+Écran de téléphone qui scrolle à 23h47 dans le noir → main qui pose le téléphone, enfile le masque → noir total → texte : « Remplace ton doomscrolling de 23h par ça. » + rappel garantie 30 nuits.
 
-**Ordre de production :** Pubs 1, 3 et 4 en premier (24 h de travail), puis 2 et 5, puis 6–7. Chaque pub est ensuite déclinée en 2–3 variantes de hook → on atteint les 15–20 créas cibles.
+### PUB 8 — « Le test AirPods vs Nocturna » (Angle 1 · comparatif · 20 s)
+Split-screen éducatif. À gauche : quelqu'un sur le côté avec un AirPod → l'oreille s'écrase, il grimace, le retire. À droite : le même sur le côté avec Nocturna → visage détendu, s'endort. Texte : « Pourquoi tu ne peux pas dormir sur le côté avec des écouteurs. » Format ultra-partageable, marche très bien en organique.
+
+### PUB 9 — « Unboxing ASMR » (produit · sans avatar · 15 s)
+Déballage lent et satisfaisant : on sort le masque de la boîte, gros plan sur le tissu peluche (rose), on presse les boutons (petit clic), on montre la souplesse de la coque 3D. Son ASMR, zéro parole. Vend le **premium au toucher** — l'objection « c'est un gadget chinois » tombe. Idéal pour montrer la qualité que la photo seule ne rend pas.
+
+### PUB 10 — « 3 trucs que je regrette pas d'avoir acheté cette année » (Angle 1 · avatar Léa · 20 s)
+Format « listicle » TikTok très viral : Léa montre 3 objets rapidement, le masque Nocturna est le n°1 (« celui-là a changé mes nuits »). L'effet « recommandation d'une copine » convertit énormément et paraît moins publicitaire — donc meilleure portée organique.
+
+**Ces 10 vidéos couvrent les 4 angles.** On les poste toutes en organique sur TikTok, on garde celles qui dépassent ~20–30k vues, et on décline la/les gagnante(s) en 2–3 variantes de hook avant de booster.
 
 ---
 
-## 7. Structure de campagne et budget
+## 7. Le plan de diffusion (budget 250 € max)
 
-### TikTok Ads (levier principal de découverte)
-- **Smart+ Campaign**, objectif Achats, large 18–55 FR (pas de sur-ciblage : les créas font le ciblage).
-- Budget test : **50 €/jour**, 8–10 créas. Spark Ads dès qu'un post organique performe.
-- Seuils de décision à 72 h : hook rate (vues 3 s) > 30 %, CTR > 1,5 %, CPA ≤ 1,5× la cible → on scale ; sinon on coupe la créa (pas l'angle).
+Stratégie « organique d'abord, on paie seulement ce qui marche ». On ne brûle pas le budget en test à l'aveugle : c'est TikTok qui teste les créas gratuitement, et on met l'argent uniquement derrière les gagnantes.
 
-### Meta Ads (levier de conversion et de scale)
-- **Advantage+ Shopping**, 1 campagne, toutes les créas dedans, budget test : **50 €/jour**.
-- Retargeting (10 % du budget) : angle 4 + carrousel avis clients + lever d'objections (lavable ? autonomie ? Bluetooth et santé ?).
-- Formats : 9:16 Reels prioritaire, + 1:1 flux, + 1 statique « avant/après nuit » pour le feed.
+### Phase 1 — Test organique TikTok (0 €)
+- Poster les **10 vidéos** sur TikTok, 1 à 2 par jour, à des horaires du soir (20h–23h, moment « sommeil »).
+- Compte optimisé : bio claire (« Mieux dormir, dès ce soir 😴 »), lien boutique, réponses aux commentaires (l'algo adore).
+- On laisse tourner ~7–10 jours. **Signal de gagnante :** une vidéo qui dépasse 20–30k vues, ou avec un bon taux de complétion et des commentaires « je le veux / lien ? ».
 
-### Offre & AOV
+### Phase 2 — Booster la/les gagnante(s) (≈ 100 €)
+- Sur la vidéo gagnante : soit **Promote** directement dans TikTok, soit une petite **Spark Ad** (on garde le post organique et ses vues/commentaires comme preuve sociale).
+- Budget : **10–15 €/jour sur 5–7 jours** sur 1 seule vidéo (max 2). Objectif : valider que ça convertit en clics/ventes, pas juste en vues.
+
+### Phase 3 — Scale sur Meta (≈ 150 €)
+- Prendre la vidéo qui a le mieux marché et la lancer en **Advantage+ Shopping** sur Meta (Reels 9:16).
+- ~110 € en acquisition froide + ~40 € en retargeting (visiteurs du site, angle anti-écran / avis clients).
+- On ne monte le budget que si le **CPA reste sous ~18 €** (sinon on coupe et on revient tester d'autres créas en organique — gratuit).
+
+> ⚠️ Avec 250 €, l'objectif n'est pas de « scaler » tout de suite mais de **trouver la créa + l'angle gagnants** à moindre coût. Une fois qu'une vidéo prouve qu'elle vend, tu peux réinvestir les premières ventes pour monter le budget. L'organique fait le gros du tri gratuitement.
+
+### Offre & panier moyen
 - **Bundle duo (« lui & elle », noir + rose) à −25 %** : monte le panier moyen et matérialise l'angle couple.
 - Garantie « 30 nuits pour l'adopter » : lève l'objection n°1 (« et si c'est inconfortable ? »).
 
-### KPIs cibles (phase test, semaines 1–3)
-| Métrique | Cible |
+### Ce qu'on regarde pour décider
+| Étape | Signal « ça marche » |
 |---|---|
-| Hook rate (3 s) | > 30 % |
-| CTR sortant | > 1,5 % |
-| CPC | < 0,60 € |
-| Taux de conversion site | > 2,5 % |
-| CPA | 12–18 € (ROAS ≥ 2 en test, ≥ 2,5 en scale) |
+| Organique TikTok | Vidéo > 20–30k vues, bon taux de complétion, commentaires « lien ? » |
+| Boost TikTok | CTR > 1,5 %, clics vers le site à < 0,60 € |
+| Conversion site | Taux de conversion > 2,5 % |
+| Meta scale | CPA sous ~18 € (ROAS ≥ 2) avant de remonter le budget |
 
 ---
 
@@ -200,7 +216,7 @@ Hook : « Le seul truc que je mets dans mon bagage cabine avant mon passeport. �
 
 ## Synthèse exécutive
 
-1. **Angle gagnant :** « endors-toi en écoutant ce que tu veux, sur le côté, dans le noir total » (rumination + douleur des écouteurs) — 50 % du budget initial ; angle couple/ronflement en challenger.
-2. **Format gagnant :** UGC hybride 9:16 de 20–30 s, produit intégralement dans **Higgsfield** (Marketing Studio + avatars Léa/Marc + voix FR Speak 2.0 + b-roll Veo 3.1/Kling 3.0/Seedance 2.0) — **produit réel uniquement** en gros plan via image-to-video sur les photos.
-3. **7 pubs scriptées prêtes à générer** (§6) dès la connexion du serveur MCP Higgsfield — pubs 1, 3 et 4 en priorité.
-4. **Dispositif :** 15–20 créas, TikTok Smart+ et Meta Advantage+ à 50 €/jour chacun, itération créative hebdomadaire, scale dès CPA ≤ 18 € avec bundle duo pour monter l'AOV.
+1. **Angle gagnant :** « endors-toi en écoutant ce que tu veux, sur le côté, dans le noir total » (rumination + douleur des écouteurs) ; angle couple/ronflement en challenger.
+2. **Format gagnant :** UGC hybride 9:16 de 15–25 s, produit dans **Higgsfield** (avatars Léa/Marc + voix FR Speak 2.0 + b-roll) — **produit réel uniquement** en gros plan via animation des photos.
+3. **10 concepts de pub prêts** (§6), couvrant les 4 angles, à générer dès que le plan/MCP Higgsfield est en place.
+4. **Diffusion 250 € :** on poste les 10 vidéos en **organique gratuit sur TikTok**, on booste seulement la gagnante (~100 € TikTok), puis on scale la meilleure sur **Meta Advantage+** (~150 €). L'organique fait le tri à moindre coût.
