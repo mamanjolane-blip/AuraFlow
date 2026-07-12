@@ -1,0 +1,34 @@
+{
+  "brand": "Nocturna",
+  "concept": "Trailer 3D dynamique façon reveal manette PlayStation — 3 actes noir/rose/gris, snap zooms, produit décentré",
+  "rule": "Une seule vidéo par génération (count: 1)",
+  "product": {
+    "title": "Masque de someil Bluetooth 3D — Dors Mieux Dès Ce Soir",
+    "shopify_product_gid": "gid://shopify/Product/8334992736313"
+  },
+  "reference_images": {
+    "front_noir": "72d20162-94a8-472b-b9d4-5fc307437f75",
+    "back_1": "558777d7-0106-46fa-bcc2-1a425ba798f5",
+    "back_2": "66a837e5-3cae-4211-bb30-a503df97b266",
+    "back_rose": "a10f61c3-9968-4ba2-bb10-07a16aa655b5",
+    "front_rose": "d41d1d06-6511-4046-a249-da592bd90717",
+    "front_gris": "7c2dd8c9-29ea-4805-a688-3a02fe2373b7"
+  },
+  "job": {
+    "provider": "Higgsfield",
+    "job_id": "2ce07bcc-f067-423d-b94b-d66f3ea96202",
+    "status": "completed",
+    "output_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9DTa97VcPvVQkfoJcxkIZJEYc/hf_20260712_210319_2ce07bcc-f067-423d-b94b-d66f3ea96202.mp4"
+  },
+  "params": {
+    "model": "seedance_2_0",
+    "duration": 10,
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "mode": "std",
+    "genre": "epic",
+    "generate_audio": true,
+    "count": 1,
+    "prompt": "High-energy cinematic 3D product trailer in the exact style of an official PlayStation DualSense controller reveal: the product flies and banks through dark space like a spaceship, rising while rotating, dynamic editing with sudden snap zooms and off-center compositions — the product is NOT always centered in frame. The hero product is the sleep mask from the reference images: a 3D contoured memory-foam Bluetooth sleep mask with a small control pad with three glowing blue buttons; the back/inner side has a removable contoured inner cushion exactly as shown in the back-view reference images. Stay perfectly faithful to the references. Environment: infinite pitch-black studio, subtle reflective floor far below, volumetric haze, deep blue and violet rim lights, tiny luminous particles, discreet gold accents — nighttime Nocturna brand palette. Structure in three acts of roughly equal length with fast whip cuts between them: ACT 1 (0-3.5s) the BLACK mask ascends from darkness like a spacecraft, banking and rotating to show front, profile and inner cushion, one sudden snap zoom onto the glowing button pad, framed off-center. ACT 2 (3.5-6.5s) flash cut — the PINK variant of the same mask, different angle, spinning and rising through light streaks, quick snap zoom, dynamic diagonal composition. ACT 3 (6.5-10s) flash cut — the GREY variant sweeps in rotating, then a final hero beat: the black mask returns fully lit in slow motion, and a clean end card on black background with elegant glowing text: 'NOCTURNA' with tagline 'Dors mieux dès ce soir' and the promo line '-20%' with the code 'NOCTURNA20' — the code must be spelled EXACTLY 'NOCTURNA20', one word, uppercase, no spaces, no extra characters. Premium cinematic quality, fluid motion, high contrast, shallow depth of field, epic trailer sound design: rising whooshes on each cut and a deep bass impact on the final reveal."
+  }
+}
