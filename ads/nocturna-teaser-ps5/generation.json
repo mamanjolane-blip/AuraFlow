@@ -1,0 +1,31 @@
+{
+  "brand": "Nocturna",
+  "product": {
+    "title": "Masque de someil Bluetooth 3D — Dors Mieux Dès Ce Soir",
+    "shopify_product_gid": "gid://shopify/Product/8334992736313",
+    "reference_image_source": "https://cdn.shopify.com/s/files/1/0808/0693/6633/files/masknoir.webp?v=1783716010",
+    "higgsfield_media_id": "72d20162-94a8-472b-b9d4-5fc307437f75"
+  },
+  "job": {
+    "provider": "Higgsfield",
+    "job_id": "1babfcf1-c10b-4ef2-82af-eea50e1a5974",
+    "status": "completed",
+    "output_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9DTa97VcPvVQkfoJcxkIZJEYc/hf_20260712_204126_1babfcf1-c10b-4ef2-82af-eea50e1a5974.mp4"
+  },
+  "params": {
+    "model": "seedance_2_0",
+    "duration": 10,
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "mode": "std",
+    "genre": "epic",
+    "generate_audio": true,
+    "medias": [
+      {
+        "value": "72d20162-94a8-472b-b9d4-5fc307437f75",
+        "role": "image_references"
+      }
+    ],
+    "prompt": "Cinematic product reveal teaser in the style of a PlayStation 5 console announcement trailer. The hero product is the EXACT sleep mask from the reference image: a black 3D contoured Bluetooth sleep mask with a small control pad with three glowing blue buttons — keep its shape, texture and details perfectly faithful to the reference. Scene: minimalist pitch-black studio, subtle reflective floor, faint volumetric haze. The mask floats in mid-air like a high-tech artifact. Progressive reveal: the video opens on a dark silhouette of the mask barely visible in shadow, then deep blue and violet rim lights slowly rise and trace its contours, glinting edge highlights, tiny luminous dust particles drifting around it. Camera: one single slow, perfectly smooth dolly-in (forward tracking shot) toward the mask, ending in a gentle slow-motion moment as the product becomes fully lit and revealed, hero shot centered. Nighttime brand palette: midnight blue, violet, a discreet touch of gold. Elegant minimal on-screen text appears near the end: title 'NOCTURNA' with tagline 'Dors mieux dès ce soir', then a final end card on black background with glowing text '-20% · CODE : NOCTURNA20'. Premium cinematic quality, slow fluid motion only, no jerky movement, shallow depth of field, high contrast, epic minimal sound design with a soft whoosh and a deep bass impact on the reveal."
+  }
+}
