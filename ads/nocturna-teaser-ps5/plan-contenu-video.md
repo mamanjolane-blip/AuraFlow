@@ -1,7 +1,10 @@
-# Nocturna — Plan de contenu vidéo (Shopify)
+# Nocturna — Plan vidéo UN SEUL MOIS (budget serré)
 
-> Base de calcul : **clips de 10 s en 720p / fast = 35 crédits/clip** (réglage éco confirmé par l'API Higgsfield).
-> Forfait Pro = **900 crédits/mois** → **~25 clips de 10 s par mois**.
+> **Contexte réel :** forfait Pro utilisé ce mois-ci uniquement, PAS de reconduction.
+> Budget total 250 € : 40 € déjà payés (le forfait) → **~210 € restants à mettre dans la PUB, pas dans des crédits**.
+> Solde crédits restant (prudent) : **~550 crédits**.
+> Base : clip 10 s en **720p / fast = 35 crédits**.
+> **Plafond réel : ~15 clips restants, ce mois-ci. Il n'y en aura pas d'autres.**
 
 ## Catalogue produits
 
@@ -12,48 +15,49 @@
 
 ---
 
-## 1. Pack de démarrage (one-shot) — l'essentiel du store
+## Le plan : 13 clips (455 crédits) + marge de sécurité ~95 crédits
 
-| # | Vidéo | Usage | Clips |
-|---|---|---|---|
-| 1 | Hero Masque Bluetooth 3D | Fiche produit | 1 |
-| 2 | Hero Masque Confort 3D | Fiche produit | 1 |
-| 3 | Bannière vidéo accueil | Page d'accueil | 1 |
-| 4 | Pub « reveal premium » | Meta/TikTok/YouTube | 1 |
-| 5 | Pub « ambiance sommeil » (doux) | Meta/TikTok | 1 |
-| 6 | Pub « promo -20% NOCTURNA20 » | Retargeting | 1 |
-| | **Total pack de démarrage** | | **6 clips = 210 crédits** |
+L'objectif de ce mois = **VALIDER si la boutique vend**. Donc on met le paquet sur les
+publicités à tester, pas sur du décoratif.
 
-Reste après le pack : **~430 crédits** dans le mois.
+| Priorité | Vidéo | Usage | Clips | Crédits |
+|---|---|---|---|---|
+| 🔴 Fondation | Hero Masque Bluetooth 3D | Fiche produit | 1 | 35 |
+| 🔴 Fondation | Hero Masque Confort 3D | Fiche produit | 1 | 35 |
+| 🟢 Validation | Pub angle 1 — reveal premium | Meta/TikTok | 1 | 35 |
+| 🟢 Validation | Pub angle 2 — ambiance sommeil doux | Meta/TikTok | 1 | 35 |
+| 🟢 Validation | Pub angle 3 — problème/solution (insomnie) | Meta/TikTok | 1 | 35 |
+| 🟢 Validation | Pub angle 4 — promo -20% NOCTURNA20 | Retargeting | 1 | 35 |
+| 🟢 Validation | Pub angle 5 — coloris/lifestyle | TikTok | 1 | 35 |
+| 🟢 Validation | Pub angle 6 — témoignage/UGC style | Meta | 1 | 35 |
+| 🟡 Trafic | Reel organique 1 | Instagram/TikTok | 1 | 35 |
+| 🟡 Trafic | Reel organique 2 | Instagram/TikTok | 1 | 35 |
+| 🟡 Trafic | Reel organique 3 | Shorts | 1 | 35 |
+| 🟡 Trafic | Reel organique 4 | Shorts | 1 | 35 |
+| 🔵 Accueil | Bannière vidéo accueil | Page d'accueil | 1 | 35 |
+| | **TOTAL** | | **13 clips** | **455** |
+| | **Marge (ratés/retouches)** | | | **~95** |
 
-## 2. Rythme mensuel récurrent (organique)
+## Où va ton argent (250 €)
 
-| Canal | Fréquence | Clips/mois |
-|---|---|---|
-| Reels / TikTok / Shorts | 2 clips/semaine | 8 |
-| Mise en avant coloris (rose, gris, bleu) | 1/semaine | 4 |
-| **Total récurrent** | | **12 clips = 420 crédits/mois** |
-
-## 3. Budget mensuel type
-
-| Poste | Crédits |
+| Poste | Montant |
 |---|---|
-| Pack de démarrage (mois 1 uniquement) | 210 |
-| Contenu récurrent | 420 |
-| Marge / retouches / ratés | ~120 |
-| **Total mois 1** | **~750 / 900** ✅ |
-| **Total mois suivants** | **~540 / 900** ✅ |
+| Forfait Higgsfield Pro (déjà payé) | 40 € |
+| **Budget pub Meta/TikTok (le vrai test)** | **~180-210 €** |
 
-➡️ **Le forfait Pro suffit largement** pour faire tourner une boutique Shopify sérieuse
-avec ~12-18 vidéos/mois. Il ne suffit PAS pour de la production de masse (1000/jour) —
-pour ça il faudrait le plan **Unlimited**.
+➡️ Avec 6 angles pub différents, tu testes ~30 €/angle sur TikTok/Meta.
+Tu gardes ceux qui convertissent, tu coupes le reste. **C'est CE test qui décide**
+si tu reconduis le forfait le mois prochain.
 
-## Règles de production (pour ne plus gaspiller)
+## Règles anti-gaspillage (verrouillées)
 
-- **Toujours 720p / fast** (35 crédits) — jamais 1080p/std (90) sauf 1 vidéo hero YouTube/an.
+- **Toujours 720p / fast** (35 crédits). Jamais 90.
 - **1 seule vidéo par génération** (`count: 1`).
-- **Format** : générer en 9:16 pour TikTok/Reels/Shorts, puis `reframe` en 16:9 si besoin
-  (moins cher que de régénérer).
-- **Texte incrusté (code promo)** : ajouter en post-production pour un lettrage 100 % exact.
-- **Éviter les photos vue-intérieure du masque** (déclenchent le filtre NSFW) — utiliser
-  les vues de face.
+- Générer en **9:16** (TikTok/Reels/Shorts) puis `reframe` en 16:9 si besoin.
+- **Code promo en post-production** (lettrage 100 % exact, le modèle se trompe).
+- **Photos de FACE uniquement** (les vues intérieures déclenchent le filtre NSFW).
+
+## Décision fin de mois
+
+- La boutique vend → tu reconduis le forfait, tu scales les pubs gagnantes.
+- La boutique ne vend pas → tu ne perds que 250 €, et tu sais pourquoi.
