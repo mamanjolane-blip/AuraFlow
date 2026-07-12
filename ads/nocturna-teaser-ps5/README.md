@@ -18,6 +18,18 @@ générée via l'API Seedance 2.0 sur Higgsfield.
 - Texte : « NOCTURNA — Dors mieux dès ce soir »
 - End card : « -20% · CODE : NOCTURNA20 »
 
+## Vidéo 2 — Rotation 3D 360° façon PlayStation
+
+- **Fichier** : MP4, 1920×1080 (16:9), 10 s, audio natif
+- **Vidéo** : https://d8j0ntlcm91z4.cloudfront.net/user_3G9DTa97VcPvVQkfoJcxkIZJEYc/hf_20260712_205342_05d12c22-265d-4e65-8353-edab53f70845.mp4
+- **Job Higgsfield** : `05d12c22-265d-4e65-8353-edab53f70845`
+- **Concept** : rotation turntable 360° du masque en suspension, caméra fixe,
+  rim light bleu/violet, arrière décrit comme sangle élastique large (info fournie
+  par le client). Paramètres exacts dans
+  [`generation-rotation-360.json`](./generation-rotation-360.json).
+
+> Règle de production : **une seule vidéo par génération** (`count: 1`).
+
 ## Reproduire / décliner
 
 Tous les paramètres exacts (modèle, prompt anglais, media_id de référence) sont

@@ -1,0 +1,32 @@
+{
+  "brand": "Nocturna",
+  "concept": "Présentation 3D façon PlayStation — rotation 360° turntable",
+  "product": {
+    "title": "Masque de someil Bluetooth 3D — Dors Mieux Dès Ce Soir",
+    "shopify_product_gid": "gid://shopify/Product/8334992736313",
+    "higgsfield_media_id": "72d20162-94a8-472b-b9d4-5fc307437f75"
+  },
+  "job": {
+    "provider": "Higgsfield",
+    "job_id": "05d12c22-265d-4e65-8353-edab53f70845",
+    "status": "completed",
+    "output_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9DTa97VcPvVQkfoJcxkIZJEYc/hf_20260712_205342_05d12c22-265d-4e65-8353-edab53f70845.mp4"
+  },
+  "params": {
+    "model": "seedance_2_0",
+    "duration": 10,
+    "aspect_ratio": "16:9",
+    "resolution": "1080p",
+    "mode": "std",
+    "genre": "epic",
+    "generate_audio": true,
+    "count": 1,
+    "medias": [
+      {
+        "value": "72d20162-94a8-472b-b9d4-5fc307437f75",
+        "role": "image_references"
+      }
+    ],
+    "prompt": "Cinematic 3D product showcase in the style of a PlayStation console reveal video: a single seamless 360-degree turntable rotation of the product. The hero product is the EXACT sleep mask from the reference image: a black 3D contoured Bluetooth sleep mask with a small control pad with three glowing blue buttons on the front left side — keep its shape, fabric texture and details perfectly faithful to the reference. The back of the product is a wide adjustable black elastic strap, similar to the strap visible in the reference but slightly wider, plain black fabric, no electronics on the back. Scene: minimalist pitch-black studio, subtle reflective floor, faint volumetric haze. The mask floats in mid-air, perfectly centered, slowly rotating on its vertical axis through a full smooth 360-degree turn so every side is shown — front, side profile, back strap, other side, returning to front. Camera locked and steady, very slight slow push-in. Deep blue and violet rim lights trace the contours as it turns, edge glints, tiny luminous dust particles drifting. Nighttime brand palette: midnight blue, violet, discreet gold accent. Elegant minimal on-screen text near the end: 'NOCTURNA' with tagline 'Dors mieux dès ce soir', then a final end card on black background with glowing text '-20% · CODE : NOCTURNA20'. Premium cinematic quality, constant slow rotation speed, fluid motion only, no jerky movement, shallow depth of field, high contrast, epic minimal sound design with a soft rising pad and a deep bass impact when the rotation completes."
+  }
+}
