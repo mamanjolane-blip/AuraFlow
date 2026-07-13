@@ -1,0 +1,26 @@
+{
+  "brand": "Nocturna",
+  "concept": "UGC TikTok 9:16 — masque Bluetooth, hook insomnie, voix off FR, sans visage parlant",
+  "job": {
+    "provider": "Higgsfield",
+    "model": "seedance_2_0 (fast)",
+    "job_id": "d26b7991-b03e-415f-9b15-65677be71dd3",
+    "status": "completed",
+    "cost_credits": 28,
+    "output_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3G9DTa97VcPvVQkfoJcxkIZJEYc/hf_20260713_103513_d26b7991-b03e-415f-9b15-65677be71dd3.mp4"
+  },
+  "params": {
+    "duration": 8,
+    "aspect_ratio": "9:16",
+    "resolution": "720p",
+    "mode": "fast",
+    "generate_audio": true,
+    "count": 1,
+    "reference_image": "72d20162-94a8-472b-b9d4-5fc307437f75 (photo Shopify masque Bluetooth noir)"
+  },
+  "lecons": [
+    "Kling 3.0 n'accepte PAS d'image de reference produit -> produit deforme (echec 190fd187, 16 cr)",
+    "Seedance 2.0 = seul choix quand la fidelite produit compte",
+    "Regle budget: preflight get_cost obligatoire avant chaque generation, plafond 30 cr"
+  ]
+}
